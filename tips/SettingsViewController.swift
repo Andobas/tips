@@ -37,10 +37,12 @@ class SettingsViewController: UIViewController {
         midTip = userDefaults.floatForKey("mid_tip");
         highestTip = userDefaults.floatForKey("highest_tip");
         
-        segmentControl.setTitle("\(lowestTip)", forSegmentAtIndex: 0)
-        segmentControl.setTitle("\(midTip)", forSegmentAtIndex: 1)
-        segmentControl.setTitle("\(highestTip)", forSegmentAtIndex: 2)
+        segmentControl.setTitle("\(Int(lowestTip))%", forSegmentAtIndex: 0)
+        segmentControl.setTitle("\(Int(midTip))%", forSegmentAtIndex: 1)
+        segmentControl.setTitle("\(Int(highestTip))%", forSegmentAtIndex: 2)
         userDefaults.synchronize()
+        
+        newTipField.becomeFirstResponder()
         
         print("view will appear")
     }
