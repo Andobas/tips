@@ -29,6 +29,25 @@
 		6730449C1C32763C007550E2 /* alone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 673044991C32763C007550E2 /* alone.jpg */; };
 		6730449D1C32763C007550E2 /* despair.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6730449A1C32763C007550E2 /* despair.jpg */; };
 		6730449E1C32763C007550E2 /* dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6730449B1C32763C007550E2 /* dog.jpg */; };
+		673044A01C3340F6007550E2 /* girl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6730449F1C3340F6007550E2 /* girl.jpg */; };
+		673044B21C335E2D007550E2 /* alien-happyBlushing.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044A11C335E2D007550E2 /* alien-happyBlushing.png */; };
+		673044B31C335E2D007550E2 /* alien-sad.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044A21C335E2D007550E2 /* alien-sad.png */; };
+		673044B41C335E2D007550E2 /* another-frog.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044A31C335E2D007550E2 /* another-frog.png */; };
+		673044B51C335E2D007550E2 /* cat-small-smile.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044A41C335E2D007550E2 /* cat-small-smile.png */; };
+		673044B61C335E2D007550E2 /* dog-smiling.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044A51C335E2D007550E2 /* dog-smiling.png */; };
+		673044B71C335E2D007550E2 /* dog-stylized.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044A61C335E2D007550E2 /* dog-stylized.png */; };
+		673044B81C335E2D007550E2 /* frog-smiling.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044A71C335E2D007550E2 /* frog-smiling.png */; };
+		673044B91C335E2D007550E2 /* giraffe-confused.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044A81C335E2D007550E2 /* giraffe-confused.png */; };
+		673044BA1C335E2D007550E2 /* jug-ears.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044A91C335E2D007550E2 /* jug-ears.png */; };
+		673044BB1C335E2D007550E2 /* linux-penguin.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044AA1C335E2D007550E2 /* linux-penguin.png */; };
+		673044BC1C335E2D007550E2 /* owl-sleepy.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044AB1C335E2D007550E2 /* owl-sleepy.png */; };
+		673044BD1C335E2D007550E2 /* panda.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044AC1C335E2D007550E2 /* panda.png */; };
+		673044BE1C335E2D007550E2 /* panda-151587_960_720.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044AD1C335E2D007550E2 /* panda-151587_960_720.png */; };
+		673044BF1C335E2D007550E2 /* penguin.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044AE1C335E2D007550E2 /* penguin.png */; };
+		673044C01C335E2D007550E2 /* penguin-whole-body.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044AF1C335E2D007550E2 /* penguin-whole-body.png */; };
+		673044C11C335E2D007550E2 /* pig-sad.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044B01C335E2D007550E2 /* pig-sad.png */; };
+		673044C21C335E2D007550E2 /* turtle-thinking.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044B11C335E2D007550E2 /* turtle-thinking.png */; };
+		673044C61C33634A007550E2 /* sun.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044C51C33634A007550E2 /* sun.png */; };
 		6782CDBD1C2BD9F0009CB02C /* indifferent person.png in Resources */ = {isa = PBXBuildFile; fileRef = 6782CDBC1C2BD9F0009CB02C /* indifferent person.png */; };
 		67D795E31C3111790043CF31 /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = 67D795E21C3111790043CF31 /* star.png */; };
 /* End PBXBuildFile section */
@@ -79,6 +98,25 @@
 		673044991C32763C007550E2 /* alone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = alone.jpg; path = images/alone.jpg; sourceTree = "<group>"; };
 		6730449A1C32763C007550E2 /* despair.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = despair.jpg; path = images/despair.jpg; sourceTree = "<group>"; };
 		6730449B1C32763C007550E2 /* dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dog.jpg; path = images/dog.jpg; sourceTree = "<group>"; };
+		6730449F1C3340F6007550E2 /* girl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = girl.jpg; path = images/girl.jpg; sourceTree = "<group>"; };
+		673044A11C335E2D007550E2 /* alien-happyBlushing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "alien-happyBlushing.png"; path = "images/alien-happyBlushing.png"; sourceTree = "<group>"; };
+		673044A21C335E2D007550E2 /* alien-sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "alien-sad.png"; path = "images/alien-sad.png"; sourceTree = "<group>"; };
+		673044A31C335E2D007550E2 /* another-frog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "another-frog.png"; path = "images/another-frog.png"; sourceTree = "<group>"; };
+		673044A41C335E2D007550E2 /* cat-small-smile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "cat-small-smile.png"; path = "images/cat-small-smile.png"; sourceTree = "<group>"; };
+		673044A51C335E2D007550E2 /* dog-smiling.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dog-smiling.png"; path = "images/dog-smiling.png"; sourceTree = "<group>"; };
+		673044A61C335E2D007550E2 /* dog-stylized.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dog-stylized.png"; path = "images/dog-stylized.png"; sourceTree = "<group>"; };
+		673044A71C335E2D007550E2 /* frog-smiling.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "frog-smiling.png"; path = "images/frog-smiling.png"; sourceTree = "<group>"; };
+		673044A81C335E2D007550E2 /* giraffe-confused.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "giraffe-confused.png"; path = "images/giraffe-confused.png"; sourceTree = "<group>"; };
+		673044A91C335E2D007550E2 /* jug-ears.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "jug-ears.png"; path = "images/jug-ears.png"; sourceTree = "<group>"; };
+		673044AA1C335E2D007550E2 /* linux-penguin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "linux-penguin.png"; path = "images/linux-penguin.png"; sourceTree = "<group>"; };
+		673044AB1C335E2D007550E2 /* owl-sleepy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "owl-sleepy.png"; path = "images/owl-sleepy.png"; sourceTree = "<group>"; };
+		673044AC1C335E2D007550E2 /* panda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = panda.png; path = images/panda.png; sourceTree = "<group>"; };
+		673044AD1C335E2D007550E2 /* panda-151587_960_720.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "panda-151587_960_720.png"; path = "images/panda-151587_960_720.png"; sourceTree = "<group>"; };
+		673044AE1C335E2D007550E2 /* penguin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = penguin.png; path = images/penguin.png; sourceTree = "<group>"; };
+		673044AF1C335E2D007550E2 /* penguin-whole-body.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "penguin-whole-body.png"; path = "images/penguin-whole-body.png"; sourceTree = "<group>"; };
+		673044B01C335E2D007550E2 /* pig-sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pig-sad.png"; path = "images/pig-sad.png"; sourceTree = "<group>"; };
+		673044B11C335E2D007550E2 /* turtle-thinking.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "turtle-thinking.png"; path = "images/turtle-thinking.png"; sourceTree = "<group>"; };
+		673044C51C33634A007550E2 /* sun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sun.png; path = images/sun.png; sourceTree = "<group>"; };
 		6782CDBC1C2BD9F0009CB02C /* indifferent person.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "indifferent person.png"; path = "/Users/juanhernandez/Desktop/tips/images/indifferent person.png"; sourceTree = "<absolute>"; };
 		67D795E21C3111790043CF31 /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = star.png; path = /Users/juanhernandez/Desktop/tips/images/star.png; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
@@ -164,6 +202,25 @@
 		6782CDB91C2BD353009CB02C /* images */ = {
 			isa = PBXGroup;
 			children = (
+				673044C51C33634A007550E2 /* sun.png */,
+				673044A11C335E2D007550E2 /* alien-happyBlushing.png */,
+				673044A21C335E2D007550E2 /* alien-sad.png */,
+				673044A31C335E2D007550E2 /* another-frog.png */,
+				673044A41C335E2D007550E2 /* cat-small-smile.png */,
+				673044A51C335E2D007550E2 /* dog-smiling.png */,
+				673044A61C335E2D007550E2 /* dog-stylized.png */,
+				673044A71C335E2D007550E2 /* frog-smiling.png */,
+				673044A81C335E2D007550E2 /* giraffe-confused.png */,
+				673044A91C335E2D007550E2 /* jug-ears.png */,
+				673044AA1C335E2D007550E2 /* linux-penguin.png */,
+				673044AB1C335E2D007550E2 /* owl-sleepy.png */,
+				673044AC1C335E2D007550E2 /* panda.png */,
+				673044AD1C335E2D007550E2 /* panda-151587_960_720.png */,
+				673044AE1C335E2D007550E2 /* penguin.png */,
+				673044AF1C335E2D007550E2 /* penguin-whole-body.png */,
+				673044B01C335E2D007550E2 /* pig-sad.png */,
+				673044B11C335E2D007550E2 /* turtle-thinking.png */,
+				6730449F1C3340F6007550E2 /* girl.jpg */,
 				673044991C32763C007550E2 /* alone.jpg */,
 				6730449A1C32763C007550E2 /* despair.jpg */,
 				6730449B1C32763C007550E2 /* dog.jpg */,
@@ -288,24 +345,43 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				673044BD1C335E2D007550E2 /* panda.png in Resources */,
 				6782CDBD1C2BD9F0009CB02C /* indifferent person.png in Resources */,
+				673044A01C3340F6007550E2 /* girl.jpg in Resources */,
+				673044B31C335E2D007550E2 /* alien-sad.png in Resources */,
 				673044931C3273E5007550E2 /* indifferent-young-man.jpg in Resources */,
 				673044901C3273E5007550E2 /* Face-plain.png in Resources */,
+				673044B41C335E2D007550E2 /* another-frog.png in Resources */,
+				673044BC1C335E2D007550E2 /* owl-sleepy.png in Resources */,
+				673044BA1C335E2D007550E2 /* jug-ears.png in Resources */,
 				6730449C1C32763C007550E2 /* alone.jpg in Resources */,
 				673044941C3273E5007550E2 /* portrayal-sad.jpg in Resources */,
 				6730448F1C3273E5007550E2 /* boy-sad.png in Resources */,
+				673044C01C335E2D007550E2 /* penguin-whole-body.png in Resources */,
 				673044961C3273E5007550E2 /* sad-cat.png in Resources */,
 				671D152E1C1E69C900E481DB /* LaunchScreen.storyboard in Resources */,
+				673044B51C335E2D007550E2 /* cat-small-smile.png in Resources */,
 				673044981C3273E5007550E2 /* shoes-sad.png in Resources */,
 				673044921C3273E5007550E2 /* head-sad.png in Resources */,
+				673044B21C335E2D007550E2 /* alien-happyBlushing.png in Resources */,
+				673044C11C335E2D007550E2 /* pig-sad.png in Resources */,
+				673044B91C335E2D007550E2 /* giraffe-confused.png in Resources */,
 				671D152B1C1E69C900E481DB /* Assets.xcassets in Resources */,
+				673044C21C335E2D007550E2 /* turtle-thinking.png in Resources */,
+				673044B71C335E2D007550E2 /* dog-stylized.png in Resources */,
+				673044BB1C335E2D007550E2 /* linux-penguin.png in Resources */,
 				673044661C3229AB007550E2 /* cat-satisfied.jpg in Resources */,
 				671D15291C1E69C900E481DB /* Main.storyboard in Resources */,
+				673044B61C335E2D007550E2 /* dog-smiling.png in Resources */,
+				673044C61C33634A007550E2 /* sun.png in Resources */,
 				67D795E31C3111790043CF31 /* star.png in Resources */,
 				673044971C3273E5007550E2 /* sadness.jpg in Resources */,
 				673044951C3273E5007550E2 /* sad person.jpg in Resources */,
 				6730449D1C32763C007550E2 /* despair.jpg in Resources */,
 				673044911C3273E5007550E2 /* happy-person-clipart-HappyPerson_07.gif in Resources */,
+				673044BE1C335E2D007550E2 /* panda-151587_960_720.png in Resources */,
+				673044B81C335E2D007550E2 /* frog-smiling.png in Resources */,
+				673044BF1C335E2D007550E2 /* penguin.png in Resources */,
 				6730449E1C32763C007550E2 /* dog.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

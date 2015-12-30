@@ -73,7 +73,7 @@ class ViewController: UIViewController {
         self.tipTitleLabel.alpha = 0
         self.totalLabel.alpha = 0
         self.totalTitleLabel.alpha = 0
-        self.whiteFrameView.alpha = 0
+    
 
         
         
@@ -127,17 +127,17 @@ class ViewController: UIViewController {
         var tipPercentage = 0.0
         if (tipControl.selectedSegmentIndex == 0) {
             tipPercentage = Double(userDefaults.floatForKey("lowest_tip")) / 100.0
-            person.image = UIImage(named: "shoes-sad.png")
+            person.image = UIImage(named: "owl-sleepy.png")
 
         }
         if (tipControl.selectedSegmentIndex == 1) {
             tipPercentage = Double(userDefaults.floatForKey("mid_tip")) / 100.0
-            person.image = UIImage(named: "indifferent person.png")
+            person.image = UIImage(named: "jug-ears.png")
             
         }
         if (tipControl.selectedSegmentIndex == 2) {
             tipPercentage = Double(userDefaults.floatForKey("highest_tip")) / 100.0
-            person.image = UIImage(named: "star.png")
+            person.image = UIImage(named: "sun.png")
             
         }
         
