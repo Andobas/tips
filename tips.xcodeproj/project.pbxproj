@@ -15,22 +15,9 @@
 		671D15391C1E69C900E481DB /* tipsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671D15381C1E69C900E481DB /* tipsTests.swift */; };
 		671D15441C1E69C900E481DB /* tipsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671D15431C1E69C900E481DB /* tipsUITests.swift */; };
 		671D15561C1FE26300E481DB /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671D15551C1FE26300E481DB /* SettingsViewController.swift */; };
-		673044661C3229AB007550E2 /* cat-satisfied.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 673044651C3229AB007550E2 /* cat-satisfied.jpg */; };
-		6730448F1C3273E5007550E2 /* boy-sad.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044851C3273E5007550E2 /* boy-sad.png */; };
-		673044901C3273E5007550E2 /* Face-plain.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044861C3273E5007550E2 /* Face-plain.png */; };
-		673044911C3273E5007550E2 /* happy-person-clipart-HappyPerson_07.gif in Resources */ = {isa = PBXBuildFile; fileRef = 673044871C3273E5007550E2 /* happy-person-clipart-HappyPerson_07.gif */; };
-		673044921C3273E5007550E2 /* head-sad.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044881C3273E5007550E2 /* head-sad.png */; };
-		673044931C3273E5007550E2 /* indifferent-young-man.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 673044891C3273E5007550E2 /* indifferent-young-man.jpg */; };
-		673044941C3273E5007550E2 /* portrayal-sad.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6730448A1C3273E5007550E2 /* portrayal-sad.jpg */; };
-		673044951C3273E5007550E2 /* sad person.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6730448B1C3273E5007550E2 /* sad person.jpg */; };
-		673044961C3273E5007550E2 /* sad-cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 6730448C1C3273E5007550E2 /* sad-cat.png */; };
-		673044971C3273E5007550E2 /* sadness.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6730448D1C3273E5007550E2 /* sadness.jpg */; };
-		673044981C3273E5007550E2 /* shoes-sad.png in Resources */ = {isa = PBXBuildFile; fileRef = 6730448E1C3273E5007550E2 /* shoes-sad.png */; };
-		6730449C1C32763C007550E2 /* alone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 673044991C32763C007550E2 /* alone.jpg */; };
-		6730449D1C32763C007550E2 /* despair.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6730449A1C32763C007550E2 /* despair.jpg */; };
-		6730449E1C32763C007550E2 /* dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6730449B1C32763C007550E2 /* dog.jpg */; };
-		6782CDBD1C2BD9F0009CB02C /* indifferent person.png in Resources */ = {isa = PBXBuildFile; fileRef = 6782CDBC1C2BD9F0009CB02C /* indifferent person.png */; };
-		67D795E31C3111790043CF31 /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = 67D795E21C3111790043CF31 /* star.png */; };
+		673044BA1C335E2D007550E2 /* jug-ears.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044A91C335E2D007550E2 /* jug-ears.png */; };
+		673044BC1C335E2D007550E2 /* owl-sleepy.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044AB1C335E2D007550E2 /* owl-sleepy.png */; };
+		673044C61C33634A007550E2 /* sun.png in Resources */ = {isa = PBXBuildFile; fileRef = 673044C51C33634A007550E2 /* sun.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,22 +52,9 @@
 		671D15431C1E69C900E481DB /* tipsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipsUITests.swift; sourceTree = "<group>"; };
 		671D15451C1E69C900E481DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		671D15551C1FE26300E481DB /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
-		673044651C3229AB007550E2 /* cat-satisfied.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "cat-satisfied.jpg"; path = "images/cat-satisfied.jpg"; sourceTree = "<group>"; };
-		673044851C3273E5007550E2 /* boy-sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "boy-sad.png"; path = "images/boy-sad.png"; sourceTree = "<group>"; };
-		673044861C3273E5007550E2 /* Face-plain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Face-plain.png"; path = "images/Face-plain.png"; sourceTree = "<group>"; };
-		673044871C3273E5007550E2 /* happy-person-clipart-HappyPerson_07.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "happy-person-clipart-HappyPerson_07.gif"; path = "images/happy-person-clipart-HappyPerson_07.gif"; sourceTree = "<group>"; };
-		673044881C3273E5007550E2 /* head-sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "head-sad.png"; path = "images/head-sad.png"; sourceTree = "<group>"; };
-		673044891C3273E5007550E2 /* indifferent-young-man.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "indifferent-young-man.jpg"; path = "images/indifferent-young-man.jpg"; sourceTree = "<group>"; };
-		6730448A1C3273E5007550E2 /* portrayal-sad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "portrayal-sad.jpg"; path = "images/portrayal-sad.jpg"; sourceTree = "<group>"; };
-		6730448B1C3273E5007550E2 /* sad person.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "sad person.jpg"; path = "images/sad person.jpg"; sourceTree = "<group>"; };
-		6730448C1C3273E5007550E2 /* sad-cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "sad-cat.png"; path = "images/sad-cat.png"; sourceTree = "<group>"; };
-		6730448D1C3273E5007550E2 /* sadness.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sadness.jpg; path = images/sadness.jpg; sourceTree = "<group>"; };
-		6730448E1C3273E5007550E2 /* shoes-sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "shoes-sad.png"; path = "images/shoes-sad.png"; sourceTree = "<group>"; };
-		673044991C32763C007550E2 /* alone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = alone.jpg; path = images/alone.jpg; sourceTree = "<group>"; };
-		6730449A1C32763C007550E2 /* despair.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = despair.jpg; path = images/despair.jpg; sourceTree = "<group>"; };
-		6730449B1C32763C007550E2 /* dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dog.jpg; path = images/dog.jpg; sourceTree = "<group>"; };
-		6782CDBC1C2BD9F0009CB02C /* indifferent person.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "indifferent person.png"; path = "/Users/juanhernandez/Desktop/tips/images/indifferent person.png"; sourceTree = "<absolute>"; };
-		67D795E21C3111790043CF31 /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = star.png; path = /Users/juanhernandez/Desktop/tips/images/star.png; sourceTree = "<absolute>"; };
+		673044A91C335E2D007550E2 /* jug-ears.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "jug-ears.png"; path = "images/jug-ears.png"; sourceTree = "<group>"; };
+		673044AB1C335E2D007550E2 /* owl-sleepy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "owl-sleepy.png"; path = "images/owl-sleepy.png"; sourceTree = "<group>"; };
+		673044C51C33634A007550E2 /* sun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sun.png; path = images/sun.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,22 +138,9 @@
 		6782CDB91C2BD353009CB02C /* images */ = {
 			isa = PBXGroup;
 			children = (
-				673044991C32763C007550E2 /* alone.jpg */,
-				6730449A1C32763C007550E2 /* despair.jpg */,
-				6730449B1C32763C007550E2 /* dog.jpg */,
-				673044851C3273E5007550E2 /* boy-sad.png */,
-				673044861C3273E5007550E2 /* Face-plain.png */,
-				673044871C3273E5007550E2 /* happy-person-clipart-HappyPerson_07.gif */,
-				673044881C3273E5007550E2 /* head-sad.png */,
-				673044891C3273E5007550E2 /* indifferent-young-man.jpg */,
-				6730448A1C3273E5007550E2 /* portrayal-sad.jpg */,
-				6730448B1C3273E5007550E2 /* sad person.jpg */,
-				6730448C1C3273E5007550E2 /* sad-cat.png */,
-				6730448D1C3273E5007550E2 /* sadness.jpg */,
-				6730448E1C3273E5007550E2 /* shoes-sad.png */,
-				673044651C3229AB007550E2 /* cat-satisfied.jpg */,
-				67D795E21C3111790043CF31 /* star.png */,
-				6782CDBC1C2BD9F0009CB02C /* indifferent person.png */,
+				673044C51C33634A007550E2 /* sun.png */,
+				673044A91C335E2D007550E2 /* jug-ears.png */,
+				673044AB1C335E2D007550E2 /* owl-sleepy.png */,
 			);
 			name = images;
 			sourceTree = "<group>";
@@ -288,25 +249,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6782CDBD1C2BD9F0009CB02C /* indifferent person.png in Resources */,
-				673044931C3273E5007550E2 /* indifferent-young-man.jpg in Resources */,
-				673044901C3273E5007550E2 /* Face-plain.png in Resources */,
-				6730449C1C32763C007550E2 /* alone.jpg in Resources */,
-				673044941C3273E5007550E2 /* portrayal-sad.jpg in Resources */,
-				6730448F1C3273E5007550E2 /* boy-sad.png in Resources */,
-				673044961C3273E5007550E2 /* sad-cat.png in Resources */,
+				673044BC1C335E2D007550E2 /* owl-sleepy.png in Resources */,
+				673044BA1C335E2D007550E2 /* jug-ears.png in Resources */,
 				671D152E1C1E69C900E481DB /* LaunchScreen.storyboard in Resources */,
-				673044981C3273E5007550E2 /* shoes-sad.png in Resources */,
-				673044921C3273E5007550E2 /* head-sad.png in Resources */,
 				671D152B1C1E69C900E481DB /* Assets.xcassets in Resources */,
-				673044661C3229AB007550E2 /* cat-satisfied.jpg in Resources */,
 				671D15291C1E69C900E481DB /* Main.storyboard in Resources */,
-				67D795E31C3111790043CF31 /* star.png in Resources */,
-				673044971C3273E5007550E2 /* sadness.jpg in Resources */,
-				673044951C3273E5007550E2 /* sad person.jpg in Resources */,
-				6730449D1C32763C007550E2 /* despair.jpg in Resources */,
-				673044911C3273E5007550E2 /* happy-person-clipart-HappyPerson_07.gif in Resources */,
-				6730449E1C32763C007550E2 /* dog.jpg in Resources */,
+				673044C61C33634A007550E2 /* sun.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
