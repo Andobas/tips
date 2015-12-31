@@ -14,18 +14,15 @@ class ViewController: UIViewController {
     @IBOutlet weak var billField: UITextField!
     @IBOutlet weak var tipLabel: UILabel!
     @IBOutlet weak var totalLabel: UILabel!
-    
     @IBOutlet weak var tipTitleLabel: UILabel!
-    
     @IBOutlet weak var totalTitleLabel: UILabel!
-    @IBOutlet weak var whiteFrameView: UIView!
+  
     
     var lowestTip: Float!
     var midTip: Float!
     var highestTip: Float!
     let userDefaults = NSUserDefaults.standardUserDefaults()
     var currencyFormatter = NSNumberFormatter()
-    
     @IBOutlet weak var person: UIImageView!
     
     
@@ -73,9 +70,7 @@ class ViewController: UIViewController {
         self.tipTitleLabel.alpha = 0
         self.totalLabel.alpha = 0
         self.totalTitleLabel.alpha = 0
-    
 
-        
         
         print("view will appear")
         
@@ -120,10 +115,6 @@ class ViewController: UIViewController {
     @IBAction func onEditingChanged(sender: AnyObject) {
         
         
-        
-        
-        
-        
         var tipPercentage = 0.0
         if (tipControl.selectedSegmentIndex == 0) {
             tipPercentage = Double(userDefaults.floatForKey("lowest_tip")) / 100.0
@@ -148,7 +139,7 @@ class ViewController: UIViewController {
         self.totalLabel.alpha = 0
         self.totalTitleLabel.alpha = 0
         self.person.alpha = 1
-        UIView.animateWithDuration(2, animations: {
+        UIView.animateWithDuration(3, animations: {
             // This causes first view to fade in and second view to fade out
             self.tipLabel.alpha = 1
             self.tipTitleLabel.alpha = 1
@@ -172,12 +163,23 @@ class ViewController: UIViewController {
        // tipLabel.text = String(format: "$%.2f", tip)
         //totalLabel.text = String(format: "$%.2f", total)
         
-        
     }
 
-//    @IBAction func onTap(sender: AnyObject) {
-//        view.endEditing(true)
-//    }
+   
+    
+    @IBAction func onTap(sender: AnyObject) {
+        
+        view.endEditing(true)
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
 }
 
 
